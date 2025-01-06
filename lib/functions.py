@@ -12,5 +12,6 @@ def greet_with_default(name="programmer"):
 def add(num1 = 45, num2 = 55):
     return num1 + num2
 
+
 def halve(number):
     return number/2
